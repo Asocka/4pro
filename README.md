@@ -1,12 +1,5 @@
-## For install Tutorial [HERE](https://www.youtube.com/watch?v=v_h-t8iGYzQ&t=28s)
-*LINE Messaging's private API*
+ # Termux
 
-----
-# [ADD ME!](http://line.me/ti/p/~adit_cmct)
-# Ambil Token Bisa Di
-# [ADITMADZS BOT Public](line.me/ti/p/~botaditmadzs)
-
-# Termux
 
 ```sh
 $ apt update
@@ -27,9 +20,9 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/Aditmadzs/Protect4
-$ cd Protect4
-$ python3 adit4.py
+$ git clone https://github.com/Asocka/4pro
+$ cd 4pro
+$ python3 4pro.py
 ```
 
 # VPS
@@ -51,8 +44,8 @@ $ sudo pip3 install thrift==0.11.0
 $ sudo pip3 install tweepy
 $ sudo pip3 install wikipedia
 $ sudo apt-get install git
-$ git clone https://github.com/Aditmadzs/Protect4
-$ cd Protect4
-$ python3 adit4.py
+$ git clone https://github.com/Asocka/4pro
+$ cd 4pro
+$ python3 4pro.py
 ```
 
