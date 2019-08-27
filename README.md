@@ -20,10 +20,7 @@ $ pip3 install thrift==0.11.0
 $ pip3 install tweepy
 $ pip3 install wikipedia
 $ apt install git
-$ git clone https://github.com/Asocka/4pro
-$ cd 4pro
-$ python3 4pro.py
-```
+
 
 # VPS
 
@@ -44,8 +41,6 @@ $ sudo pip3 install thrift==0.11.0
 $ sudo pip3 install tweepy
 $ sudo pip3 install wikipedia
 $ sudo apt-get install git
-$ git clone https://github.com/Asocka/4pro
-$ cd 4pro
-$ python3 4pro.py
-```
+
+
 
